@@ -3,7 +3,4 @@
 
 **Hover over the Icon** to get it animated into a card
 
-The icon is animated in SVG ``` <animate /> ``` element
-
-![InfoMeteor]
-(https://babbili.github.io/icon-to-card-animation/assets/img/meteor.svg)
+The icon has an SVG ``` <animate /> ``` element and it gets animated into a card through CSS
